@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.small {
+  height: 50px;
+  width: 170px;;
+  font-size: 1rem;
+}
+.medium {
+  height: 70px;
+  width: 200px;;
+  font-size: 2rem;
+}
+
+.teal{
+  background-color: teal;
+}
+
+.blue{
+  background-color: aqua;
+}
+
+.default {
+  background-color:  red;
+  color: white;
+}
+
+input{
+  height: 50px;
+  width: 50px;
+  margin: 5px;
+  font-size: x-large;
+  text-align: center;
+}
